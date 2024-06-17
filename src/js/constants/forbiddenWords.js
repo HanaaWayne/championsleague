@@ -1,7 +1,1 @@
-export default [ 
-    '<script>',
-    '</script>',
-    'html',
-    '</html>',
-    'superman',
-]
+export default ["<script>", "</script>", "html", "</html>", "superman"];

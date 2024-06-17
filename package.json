@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "npx prettier --write .",
     "transpile": "tsc --project ./"
   },
   "keywords": [],
@@ -11,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "prettier": "^3.3.2",
     "tsc": "^2.0.4"
   }
 }
